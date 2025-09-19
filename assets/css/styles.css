@@ -1,0 +1,14 @@
+body {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+.btn-container {
+  margin: 50px auto;
+  text-align: center;
+}
+
+.btn:hover {
+  background-color: #c3ce2e;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+  transform: scale(1.05);
+}
